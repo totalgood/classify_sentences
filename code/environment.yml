@@ -1,0 +1,15 @@
+name: nlpiaenv
+
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - nomkl
+  - pandas
+  - pip
+  - scipy
+  - scikit-learn
+
+  - pip:
+    - -r ./requirements.txt
