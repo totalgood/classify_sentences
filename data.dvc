@@ -1,8 +1,0 @@
-md5: aef007aea0f1891369ec478d89d3b293
-wdir: .
-outs:
-- md5: d29b8c0d3d5ad8776807f958a2a7b431.dir
-  path: data
-  cache: true
-  metric: false
-  persist: false
